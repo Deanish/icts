@@ -24,7 +24,8 @@
         "drupal/current_year": "^1.0",
         "drupal/ds": "^5.0@alpha",
         "drupal/fontawesome": "^2.25",
-        "drupal/fontawesome_menu_icons": "^2.0"
+        "drupal/fontawesome_menu_icons": "^2.0",
+        "drupal/twig_tweak": "^3.2"
     },
     "conflict": {
         "drupal/drupal": "*"
