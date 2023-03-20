@@ -68,6 +68,12 @@ ul[data-block="nav_main"] .nav-link {
         display: block;
 }
 
+a.nav-link > .svg-inline--fa {  /*Home menu icon */
+        padding: 0px;
+        color: #FFFFFF;
+}
+
+
 /*Breadcrumb path */
 .breadcrumb-path {
 	font-weight: 600;
