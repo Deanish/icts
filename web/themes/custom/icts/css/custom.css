@@ -64,6 +64,10 @@ ul[data-block="nav_main"] .nav-link {
 	background-color: #a10606;
 }
 
+.nav-item.dropdown:hover .dropdown-menu {
+        display: block;
+}
+
 /*Breadcrumb path */
 .breadcrumb-path {
 	font-weight: 600;
